@@ -7,5 +7,5 @@
 #### 1. Look into the scenes of major Online Services & learn about their Architectures.
 #### 2. Understand the Distributed System Reseach upon which modern Database are built.
 #### 3. Make informed decisions by identifying the strengths and weaknesses of different tools.
-#### 4. Peer under the hood of the systems you already use, and learn how to use and operate them more effectively
+#### 4. Peer under the hood of the systems you already use, and learn how to use and operate them more effectively.
 
